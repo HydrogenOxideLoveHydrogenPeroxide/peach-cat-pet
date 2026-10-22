@@ -8,7 +8,7 @@
 
 提供 9 种状态动画，以及完整 v2 素材中的 16 个视线方向。无需重新生成图片。
 
-v1.0.2 采用选定的第三个走路姿势：身体较直、双爪展开，双脚在身体下方交替迈步。移动时不带电脑，工作时继续敲电脑。
+v1.0.3 按新的腿部参考重画步态：抬腿在肚子侧面形成圆弯，支撑腿沿身体侧面自然延伸，左右脚交替迈步；保留身体较直、双爪展开的姿势。移动时不带电脑，工作时继续敲电脑。
 
 ## 快速安装到 Codex
 
@@ -30,7 +30,7 @@ cd peach-cat-pet
 py -3 install.py
 ```
 
-也可以在 [Releases](https://github.com/HydrogenOxideLoveHydrogenPeroxide/peach-cat-pet/releases/latest) 下载 `peach-cat-v1.0.2.zip`，解压后运行安装脚本。
+也可以在 [Releases](https://github.com/HydrogenOxideLoveHydrogenPeroxide/peach-cat-pet/releases/latest) 下载 `peach-cat-v1.0.3.zip`，解压后运行安装脚本。
 
 安装完成后，在支持本地宠物的 Codex 客户端中刷新宠物列表或重启，然后选择 **蜜桃猫 / peach-cat**。脚本只安装文件，不自动更改客户端的当前宠物选择。
 
